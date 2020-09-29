@@ -1,9 +1,11 @@
-# Assignment2
+# PAC-MAN
 
 This Internet game developed by Yasmin Avraham and Meytal Yaniv as part of the course Internet Development Environments.
  
 Website address: https://sise-web-development-environments.github.io/assignment2-yasmin_meytal/
 
+
+![picture](images/s.PNG)
 
 Added functionality:
 
