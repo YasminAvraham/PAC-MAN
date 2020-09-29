@@ -1,4 +1,6 @@
 # Assignment2
+
+This Internet game developed as part of the course Internet Development Environments.
  
 Website address: https://sise-web-development-environments.github.io/assignment2-yasmin_meytal/
 
