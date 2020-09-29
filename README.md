@@ -1,6 +1,6 @@
 # PAC-MAN
 
-This Internet game developed as part of the course Internet Development Environments.
+This Internet game developed as part of the course Web Development Environments.
  
 Website address: https://sise-web-development-environments.github.io/assignment2-yasmin_meytal/
 
